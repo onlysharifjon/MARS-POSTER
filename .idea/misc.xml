@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.9 (Mars_Request)" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="5021a03e-879a-47ed-8244-23a26f53d92f" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (Mars_Request)" project-jdk-type="Python SDK" />
+</project>
